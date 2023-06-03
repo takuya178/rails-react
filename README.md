@@ -8,6 +8,8 @@ https://docs.docker.jp/get-started/index.html
 - React： 18系
 
 ## 環境構築
+※Dockerのセットアップが完了してから行うこと
+
 ### リポジトリをクローン
 ```
 % git clone git@github.com:takuya178/rails-react.git
