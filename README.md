@@ -45,6 +45,11 @@ http://localhost:3001 にアクセス
 ```
 npm install
 ```
+### React起動
+```
+npm start
+```
+
 ### Reactが起動しているか確認
 http://localhost:3000 にアクセス
 ![スクリーンショット 2023-06-03 11 28 57](https://github.com/takuya178/rails-react/assets/78284579/08bce9ca-e29f-4f01-a2a3-1fca8219429c)
